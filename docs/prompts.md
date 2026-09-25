@@ -12,6 +12,10 @@ Usa React + Vite para el frontend, Express para la API y MySQL como base de dato
 
 Crea un catalogo de productos de panaderia con categorias, buscador, carrito y formulario para enviar pedidos. Agrega endpoints para consultar productos y guardar pedidos.
 
+## Prompt de Docker
+
+Configura Dockerfile para frontend y backend, Docker Compose con React, Express y MySQL, un volumen persistente para MySQL y un script init.sql para crear las tablas y datos iniciales.
+
 ## Prompt de documentacion
 
-Documenta la arquitectura, los comandos Docker, la persistencia del volumen, la forma de ejecutar el proyecto y los pasos para subirlo a GitHub.
+Documenta paso a paso los comandos usados, las capturas que debo tomar, el funcionamiento de los contenedores, el volumen de datos, los prompts utilizados y la forma de subir el proyecto a GitHub.

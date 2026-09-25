@@ -55,3 +55,5 @@ Si el repositorio remoto ya tiene commits, primero usa `git pull --rebase origin
 ## Prompts documentados
 
 Los prompts usados para orientar el desarrollo estan en `docs/prompts.md`.
+
+La guia paso a paso para demostrar Docker y tomar capturas esta en `docs/demostracion-docker.md`.
